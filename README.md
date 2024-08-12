@@ -2,8 +2,7 @@
 - 👀 I’m interested in Full Stack Development.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Interships/Projects.
-- 📫 How to reach me https://www.instagram.com/gaurav.rawat.05?igsh=c3dheHdicGVndWp1.
-- 😄 Pronouns: He/Him
+- 📫 How to reach me https://www.instagram.com/gaurav.rawat.05
 - ⚡ Fun fact: HTML, CSS, and JavaScript are the building blocks of the web. Think of them as the bricks, mortar, and paint of a digital house!
 
 <!---
