@@ -74,5 +74,5 @@ I am a Technical Team Member of **Code Catalyst**, where I collaborate on group 
 
 <div align="center">
   <h3>🤝 Open to Work!</h3>
-  <p>Available for immediate joining in <b>Faridabad / Delhi NCR / Remote</b>.</p>
+  <p>Available for immediate joining</b>.</p>
 </div>
