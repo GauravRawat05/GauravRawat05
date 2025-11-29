@@ -63,15 +63,6 @@ I am a Technical Team Member of **Code Catalyst**, where I collaborate on group 
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" alt="Gaurav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <h3>🤝 Open to Work!</h3>
   <p>Available for immediate joining</b>.</p>
