@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Gaurav&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20Data%20Analyst%20%7C%20GenAI%20Enthusiast&descAlignY=55&descAlign=50" alt="Gaurav's Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi,%20I'm%20Gaurav&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Dev%20GenAI%20Enthusiast&descAlignY=55&descAlign=50" alt="Gaurav's Header" width="100%"/>
 </div>
 
 ### <div align="center">👨‍💻 BCA Final Year Student | 📍 Faridabad, Delhi NCR</div>
