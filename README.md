@@ -56,11 +56,6 @@ I am a Technical Team Member of **Code Catalyst**, where I collaborate on group 
 - **Features:** Custom Admin Dashboard, REST API, Razorpay Payment Integration, User Auth.
 - **Live Link:** [moretrendz.online](https://moretrendz.online)
 
-#### 3. 📊 Sales Performance Dashboard
-> *Data analysis project to track KPIs.*
-- **Tech:** Power BI, Excel (Advanced), Data Cleaning.
-- **Features:** Visualized sales trends and actionable business insights.
-
 ---
 
 <div align="center">
